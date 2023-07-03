@@ -43,4 +43,11 @@ way:
 7. Total Count of Gender Without Missing Value.
 8. State Wise Testing details total number of Samples, Negative and Positive Case.
 ## Source of dataset
+1. https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+2. https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+3. https://github.com/Praveenmth13/Covid-19-in-India-Dashboard
 <br><br>
+
+<br><br>
+<img src="Dash.png" alt="Dashboard" width="1250" height="600">
+
